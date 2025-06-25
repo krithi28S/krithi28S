@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Krithika S</h1>
-<h3 align="center">Business Analyst | Data Analytics Enthusiast | Designer | Developer </h3>
+<h3 align="center">Business Analyst & Data Analyst | Digital Marketing | Content Writer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding and analytics gif">
@@ -16,7 +16,8 @@
 
 🎓 Currently pursuing **B.E. in Computer Science and Engineering**  
 📈 Passionate about transforming data into insights that drive business decisions  
-🤖 Skilled in **Automation (UiPath)**, **Data Analysis (Excel, Power BI)**, and **User-Centric Thinking**  
+✍️ Skilled in **Content Writing** and **Digital Marketing** with a flair for storytelling  
+🤖 Experienced in **Automation (UiPath)**, **Data Analysis (Excel, Power BI)**, and **User-Centric Thinking**  
 🧠 Focused on delivering results through structured logic and creativity
 
 ---
@@ -29,6 +30,8 @@
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="UiPath" src="https://img.shields.io/badge/-UiPath-FF6C37?style=for-the-badge&logo=uipath&logoColor=white" />
   <img alt="Google Analytics" src="https://img.shields.io/badge/-Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" />
+  <img alt="Content Writing" src="https://img.shields.io/badge/-Content%20Writing-333333?style=for-the-badge&logo=ghost&logoColor=white" />
+  <img alt="Digital Marketing" src="https://img.shields.io/badge/-Digital%20Marketing-0A66C2?style=for-the-badge&logo=google&logoColor=white" />
   <img alt="Google Sheets" src="https://img.shields.io/badge/-Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
   <img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/-PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 </p>
@@ -63,7 +66,9 @@
 - ✅ **Business Analyst** – Internshala  
 - ✅ **Google Data Analytics** – Google Arcade  
 - ✅ **UiPath Automation Developer**  
-- ✅ **Advanced Excel for Business Analytics**
+- ✅ **Advanced Excel for Business Analytics**  
+- ✅ **Digital Marketing Basics** – Google  
+- ✅ **Content Writing Essentials** – Internshala  
 
 ---
 
@@ -71,13 +76,14 @@
 
 - Power BI dashboards and advanced DAX  
 - SQL optimization techniques  
-- Domain-specific analytics for customer experience and marketing
+- Content strategy for digital channels  
+- Domain-specific analytics for customer experience
 
 ---
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](#) *(Add your LinkedIn URL here)*  
+- 💼 [LinkedIn](#) https://www.linkedin.com/in/krithika-s-
 - 📧 krithika2005dgl@gmail.com  
 - 📍 Dindigul, Tamil Nadu, India  
 - 🤝 Open to Internships | Projects | Collaborations  
