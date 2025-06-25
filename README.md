@@ -64,11 +64,11 @@
 ## 📜 Certifications
 
 - ✅ **Business Analyst** – Internshala  
-- ✅ **Google Data Analytics** – Google Arcade  
+- ✅ **Google Data Analytics** – Google  
 - ✅ **UiPath Automation Developer**  
-- ✅ **Advanced Excel for Business Analytics**  
-- ✅ **Digital Marketing Basics** – Google  
-- ✅ **Content Writing Essentials** – Internshala  
+
+
+
 
 ---
 
