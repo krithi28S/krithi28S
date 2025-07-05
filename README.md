@@ -14,10 +14,10 @@
 
 ## 🌟 About Me
 
-🎓 Currently pursuing **B.E. in Computer Science and Engineering**  
+🎓 Currently pursuing **B.Tech in Computer Science and Business Systems**  
 📈 Passionate about transforming data into insights that drive business decisions  
 ✍️ Skilled in **Content Writing** and **Digital Marketing** with a flair for storytelling  
-🤖 Experienced in **Automation (UiPath)**, **Data Analysis (Excel, Power BI)**, and **User-Centric Thinking**  
+🤖 Experienced in **Data Analysis (Excel, Power BI)** and **User-Centric Thinking**  
 🧠 Focused on delivering results through structured logic and creativity
 
 ---
@@ -28,7 +28,6 @@
   <img alt="Excel" src="https://img.shields.io/badge/-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="UiPath" src="https://img.shields.io/badge/-UiPath-FF6C37?style=for-the-badge&logo=uipath&logoColor=white" />
   <img alt="Google Analytics" src="https://img.shields.io/badge/-Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" />
   <img alt="Content Writing" src="https://img.shields.io/badge/-Content%20Writing-333333?style=for-the-badge&logo=ghost&logoColor=white" />
   <img alt="Digital Marketing" src="https://img.shields.io/badge/-Digital%20Marketing-0A66C2?style=for-the-badge&logo=google&logoColor=white" />
@@ -52,6 +51,14 @@
 
 ---
 
+## 💼 Experience
+
+- 📌 **Marketing Intern** — *Tripple One Solutions*  
+- ✍️ **Content Writing Intern** — *Earth5R*  
+- 📊 **Data Visualization Intern** — *Excellerate*
+
+---
+
 ## 🏆 Achievements
 
 - 🗣️ Zonal Finalist – *Speak for India 2025*  
@@ -65,10 +72,6 @@
 
 - ✅ **Business Analyst** – Internshala  
 - ✅ **Google Data Analytics** – Google  
-- ✅ **UiPath Automation Developer**  
-
-
-
 
 ---
 
@@ -83,7 +86,7 @@
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](#) https://www.linkedin.com/in/krithika-s-
+- 💼 [LinkedIn](#) https://www.linkedin.com/in/krithika-s-  
 - 📧 krithika2005dgl@gmail.com  
 - 📍 Dindigul, Tamil Nadu, India  
 - 🤝 Open to Internships | Projects | Collaborations  
